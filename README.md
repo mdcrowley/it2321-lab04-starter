@@ -1,6 +1,6 @@
 # IT-2321 Lab 4: Objects, Validation, and Error Handling
 
-**Week 8 | Reading: Eloquent JavaScript, Chapters 6 and 8**
+**Reading: Eloquent JavaScript, Chapters 6 and 8**
 
 This lab is practice with modeling a small domain with objects or a class, validating input, handling errors, and writing a few simple tests.
 
